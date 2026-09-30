@@ -20,3 +20,6 @@
 ## 快速开始
 ```bash
 docker-compose up
+
+##前端展示
+启动FastAPI服务后，直接浏览器打开'test6.html'即可访问问答界面
