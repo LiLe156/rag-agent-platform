@@ -17,6 +17,17 @@
 4. **安全防护**：Prompt注入防御、越权拦截、输出脱敏
 5. **工程化部署**：FastAPI + SSE流式接口，Docker容器化
 
+## 项目截图
+
+### 1. 后端服务启动与 LangGraph 运行日志
+![终端日志](images/screenshot.png(终端日志).jpg)
+
+### 2. 前端问答演示
+![前端界面](images/screenshot.png(前端界面).jpg)
+
+### 3. 项目工程化目录结构
+![项目架构](images/screenshot.png(项目架构).jpg)
+
 ## 快速开始
 ```bash
 docker-compose up
